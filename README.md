@@ -1064,7 +1064,7 @@ the hash-to-element method.
 <a id="id-live-image"></a>
 ## 9.11. Live USB image
 
-Download the [live USB image](http://people.cs.kuleuven.be/~mathy.vanhoef/fragattacks/ubuntu-20.04.2-fragattacks-1.3.3-amd64.iso)
+Download the [live USB image](https://people.cs.kuleuven.be/~mathy.vanhoef/fragattacks/ubuntu-20.04.2-fragattacks-1.3.3-amd64.iso)
 and write it to USB using:
 
 	# Unmount in case there's an old partition on the USB
